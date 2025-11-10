@@ -1,6 +1,6 @@
-# 📘 Curso de Otimização Estocástica
+# 📘 Curso de Otimização Estocástica 2025
 
-Bem-vindo(a) ao repositório do **Curso de Otimização Estocástica 2025**!  
+Bem-vindo(a) ao repositório do **Curso de Otimização Estocástica**!  
 Aqui você encontrará todos os **slides**, **exercícios** e **referências** relacionados ao curso.
 
 🌐 **Site oficial do curso:** [sobrapo-school.netlify.app](https://sobrapo-school.netlify.app)
