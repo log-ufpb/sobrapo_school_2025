@@ -3,13 +3,13 @@
 Bem-vindo(a) ao repositório do **Curso de Otimização Estocástica**!  
 Aqui você encontrará todos os **slides**, **exercícios** e **referências** relacionados ao curso.
 
-🌐 **Site oficial do curso:** [sobrapo-school.netlify.app](https://sobrapo-school.netlify.app)
+🌐 **Site oficial do curso:** [sobrapo.org.br/sobrapo-school-2025](https://www.sobrapo.org.br/sobrapo-school-2025)
 
 ---
 
 ## 🧩 Sobre o curso
 
-O curso de **Otimização Estocástica** aborda técnicas e modelos que lidam com **incertezas em problemas de decisão**.  
+O curso de **Otimização Estocástica** aborda técnicas e modelos para lidar com **incertezas em problemas de decisão**.  
 Ao longo das aulas, são apresentados conceitos teóricos e aplicações práticas envolvendo:
 
 - Modelos de otimização sob incerteza  
@@ -24,7 +24,7 @@ O objetivo é capacitar o aluno a **formular e resolver problemas de otimizaçã
 
 ## 📂 Estrutura do repositório
 
-Os materiais estão divididos por aula lecionada.
+Os materiais estão divididos por aula.
 
 ## 👩‍🏫 Créditos
 
