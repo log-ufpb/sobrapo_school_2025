@@ -18,7 +18,7 @@ Ao longo das aulas, são apresentados conceitos teóricos e aplicações prátic
 - Amostragem e convergência
 - Aproximação de problemas estocásticos
 
-O objetivo é capacitar o aluno a **formular e resolver problemas de otimização** em contextos onde as variáveis ou parâmetros não são determinísticos.
+O objetivo é capacitar o aluno a **formular e resolver problemas de otimização** em contextos onde há incerteza na tomada de decisão.
 
 ---
 
